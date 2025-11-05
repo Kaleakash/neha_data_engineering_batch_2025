@@ -1,0 +1,6 @@
+fname=input("Enter your name: ")
+print("Hello, " + fname + "!")
+id  = int(input("Enter your ID: "))
+print("Your ID is: " + str(id))
+salary = float(input("Enter your salary: "))
+print("Your salary is: " + str(salary))
